@@ -4,7 +4,7 @@ import path from "path";
 
 const SEARCH_URL = "https://www.nl.go.kr/NL/contents/search.do?pageNum=1&pageSize=30&srchTarget=total&kwd=%E4%B8%80%E5%A0%82%E7%B4%80%E4%BA%8B#!";
 const START = 1;
-const END = 900;
+const END = 960;
 const OUT_DIR = "downloads";
 
 const selectors = {
