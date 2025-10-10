@@ -8,8 +8,7 @@ TASK:
 3) Keep people/places/titles/dates accurate; use the glossary below.
 4) Preserve paragraphing. Do not add extra line breaks.
 5) Keep transliterations consistent with the glossary.
-6) Provide the whole text with separated paragraphs at the end for each language.
-
+6) No need to provide translation for each section. Provide the whole text with separated paragraphs for each language.
 GLOSSARY (fixed; prefer these forms):
 - 李完用: Yi Wan-yong / 이완용
 - 伊藤博文: Itō Hirobumi / 이토 히로부미
