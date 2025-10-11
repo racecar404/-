@@ -69,9 +69,3 @@
 | 中樞院   | Privy Council (Korea) | 중추원            |
 | 併合     | Annexation (1910)     | 한일병합          |
 | 一堂紀事 | It-tang Kiji          | 일당기사          |
-
----
-
-```
-
-```
